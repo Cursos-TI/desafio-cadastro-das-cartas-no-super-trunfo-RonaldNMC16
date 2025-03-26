@@ -75,4 +75,5 @@ int main() {
     printf("Pontos turísticos: %d\n", Numero_P_T2);
 
     return 0;
+    
 }
